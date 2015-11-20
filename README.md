@@ -1,2 +1,0 @@
-# datasciencecoursera
-First course project
